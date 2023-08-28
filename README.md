@@ -11,7 +11,7 @@ O objetivo deste minicurso é te ensinar a usar o pandas para trabalhar com dado
 Neste minicurso, abordaremos os seguintes tópicos:
 
 - Introdução ao pandas e suas estruturas de dados principais: Series e DataFrames.
-- Leitura e escrita de dados em diferentes formatos, como CSV, Excel e JSON.
+- Leitura de dados em diferentes formatos, como CSV, Excel e JSON.
 - Seleção, filtragem e manipulação de dados usando pandas.
 - Tratamento de valores faltantes e inconsistentes.
 - Ordenação, agregação e transformação de dados.
